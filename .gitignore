@@ -1,0 +1,16 @@
+frontend/node_modules
+server/node_modules
+.DS_Store
+server/public/images/image-1709426537143.jpeg
+server/public/images/image-1709441617207.jpeg
+server/public/images/image-1709441738449.jpeg
+server/public/images/image-1709441830372.jpeg
+server/public/images/image-1709441867785.jpeg
+server/public/images/image-1709442478645.jpeg
+server/public/images/image-1709442780586.jpeg
+server/public/images/image-1709593823486.jpeg
+server/public/images/image-1709593954007.png
+server/public/images/image-1709658754014.png
+server/public/images/image-1709665657196.png
+server/public/images/lehanga.jpeg
+frontend/src/logo.svg
